@@ -17,6 +17,9 @@ public class StringMethods {
         String substring=text.substring(1,3);
         System.out.println("Substring: "+substring);
 
+        String substring2=text.substring(4);
+        System.out.println("Substring method 2: "+substring2);
+
         boolean b=text.contains("Lan");
         System.out.println("contains= "+ b);
 
