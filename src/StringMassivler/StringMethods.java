@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class StringMethods {
     public static void main(String[] args) {
+        //string mehtods
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter any text");
         String text=sc.nextLine();
@@ -55,5 +56,6 @@ public class StringMethods {
 
         String replace=text.replace("Java","Hello world");
         System.out.println("Replace Java with Hello world= "+replace);
+
     }
 }
