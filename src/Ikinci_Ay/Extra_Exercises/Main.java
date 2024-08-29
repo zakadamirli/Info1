@@ -1,4 +1,4 @@
-package Ikinci_Ay;
+package Ikinci_Ay.Extra_Exercises;
 
 import java.util.Scanner;
 
