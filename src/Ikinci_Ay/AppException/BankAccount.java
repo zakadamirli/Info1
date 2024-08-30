@@ -1,4 +1,4 @@
-package AppException;
+package Ikinci_Ay.AppException;
 
 public class BankAccount {
     private double balance;
